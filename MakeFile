@@ -1,0 +1,7 @@
+
+.PHONY = run
+
+# todo: fix this
+
+run:
+	python3 main.py
