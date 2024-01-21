@@ -30,6 +30,9 @@ MENU = """
 
 """
 
+# todo: create a check for a valid folder structure on the given path (from .env)
+# todo: create a setup script that creates a folder structure and a .env file
+
 def menu_loop():
     '''Main menu loop'''
     choice: int | None = None

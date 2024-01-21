@@ -1,0 +1,14 @@
+functionality of program:
+  1. normalise the file names [artist(s) - track name [remix] ]
+  2. export a playlist to mp3 or wav
+  3. keep efficient playlists (playlist is only references to a single copy of the file)
+  4. cross reference the artists
+  5. export songs with traktor / rekordbox analysis intact
+  6. transform between traktor and rekordbox analyses
+
+folder structure:
+
+  /tracks
+  /analyses
+  /artists
+  /playlists
