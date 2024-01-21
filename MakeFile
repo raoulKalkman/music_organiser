@@ -1,7 +1,11 @@
 
-.PHONY = run
+.PHONY = run version
 
 # todo: fix this
 
 run:
 	python3 main.py
+
+# todo: add config file for version and other env variables
+version:
+	0.1
